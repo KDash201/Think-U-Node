@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS thinkYouNode_db;
+
+CREATE DATABASE thinkYouNode_db;
